@@ -1,5 +1,3 @@
-#Problema Terreno
-
 largura_terreno = float(input("Digite a largura do terreno: "))
 comprimento_terreno = float(input("Digite comprime do terreno: "))
 valor_m_quadrado = float(input("Digite valor do metro quadrado: "))
